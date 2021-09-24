@@ -1,0 +1,17 @@
+(module "#0" (layer F.Cu) (tedit 0)
+  (fp_text reference U$5 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 0.07 -0.19) (xy 0.07 -0.31) (xy 0.06 -0.43) (xy 0.02 -0.52)
+    (xy -0.1 -0.55) (xy -0.22 -0.53) (xy -0.28 -0.45) (xy -0.29 -0.33)
+    (xy -0.29 -0.21) (xy -0.39 -0.19) (xy -0.51 -0.19) (xy -0.62 -0.16)
+    (xy -0.66 -0.05) (xy -0.65 0.07) (xy -0.6 0.16) (xy -0.48 0.18)
+    (xy -0.36 0.18) (xy -0.29 0.23) (xy -0.29 0.35) (xy -0.28 0.47)
+    (xy -0.2 0.53) (xy -0.07 0.53) (xy 0.03 0.49) (xy 0.06 0.39)
+    (xy 0.07 0.27) (xy 0.09 0.18) (xy 0.21 0.18) (xy 0.34 0.17)
+    (xy 0.41 0.1) (xy 0.42 -0.02) (xy 0.4 -0.14) (xy 0.31 -0.19)
+    (xy 0.18 -0.19)) (layer F.SilkS) (width 0))
+)

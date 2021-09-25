@@ -649,7 +649,7 @@ Text Label 7500 5200 2    50   ~ 0
 Wire Wire Line
 	8700 5200 8900 5200
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1KOHM-0402T-1_16W-1% R11
+L RP2040-rescue:1KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R11
 U 1 1 4EA54AE4
 P 13600 2500
 F 0 "R11" H 13450 2559 70  0000 L BNN
@@ -660,7 +660,7 @@ F 3 "" H 13600 2500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:LED-RED0603 LED1
+L RP2040-rescue:LED-RED0603-SparkFun_ProMicro-RP2040-eagle-import LED1
 U 1 1 A5ED7AF3
 P 13600 2900
 F 0 "LED1" V 13740 2720 70  0000 L BNN
@@ -671,7 +671,7 @@ F 3 "" H 13600 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:10KOHM-0402T-1_16W-1% R2
+L RP2040-rescue:10KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R2
 U 1 1 81BCC900
 P 12700 4900
 F 0 "R2" H 12550 4959 70  0000 L BNN
@@ -682,7 +682,7 @@ F 3 "" H 12700 4900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1.0UF-0402T-16V-10% C6
+L RP2040-rescue:1.0UF-0402T-16V-10%-SparkFun_ProMicro-RP2040-eagle-import C6
 U 1 1 AC70BA74
 P 17100 3000
 F 0 "C6" H 17060 2995 70  0000 R TNN
@@ -693,7 +693,7 @@ F 3 "" H 17100 3000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:PPTC_6V500MA F1
+L RP2040-rescue:PPTC_6V500MA-SparkFun_ProMicro-RP2040-eagle-import F1
 U 1 1 51D17EAF
 P 10900 2200
 F 0 "F1" H 10800 2320 70  0000 L BNN
@@ -704,7 +704,7 @@ F 3 "" H 10900 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:DIODE-SCHOTTKY-BAT60A D2
+L RP2040-rescue:DIODE-SCHOTTKY-BAT60A-SparkFun_ProMicro-RP2040-eagle-import D2
 U 1 1 1DFC3E8D
 P 11400 2200
 F 0 "D2" H 11500 2219 70  0000 L BNN
@@ -715,7 +715,7 @@ F 3 "" H 11400 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND05
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND05
 U 1 1 EF27308A
 P 16400 2000
 F 0 "#GND05" H 16400 2000 50  0001 C CNN
@@ -726,7 +726,7 @@ F 3 "" H 16400 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND01
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND01
 U 1 1 DB8695AC
 P 11600 2800
 F 0 "#GND01" H 11600 2800 50  0001 C CNN
@@ -737,7 +737,7 @@ F 3 "" H 11600 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND06
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND06
 U 1 1 A07C0193
 P 12000 2800
 F 0 "#GND06" H 12000 2800 50  0001 C CNN
@@ -748,7 +748,7 @@ F 3 "" H 12000 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND07
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND07
 U 1 1 9CDE76EF
 P 13000 2800
 F 0 "#GND07" H 13000 2800 50  0001 C CNN
@@ -759,7 +759,7 @@ F 3 "" H 13000 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND010
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND010
 U 1 1 845C69E3
 P 13600 3300
 F 0 "#GND010" H 13600 3300 50  0001 C CNN
@@ -770,7 +770,7 @@ F 3 "" H 13600 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND011
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND011
 U 1 1 19DA8D48
 P 17100 3400
 F 0 "#GND011" H 17100 3400 50  0001 C CNN
@@ -781,7 +781,7 @@ F 3 "" H 17100 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:V_REG_AP2112K-3.3V U1
+L RP2040-rescue:V_REG_AP2112K-3.3V-SparkFun_ProMicro-RP2040-eagle-import U1
 U 1 1 796DC712
 P 12500 2400
 F 0 "U1" H 12200 2730 70  0000 L BNN
@@ -792,7 +792,7 @@ F 3 "" H 12500 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:10UF-0402T-6.3V-20% C7
+L RP2040-rescue:10UF-0402T-6.3V-20%-SparkFun_ProMicro-RP2040-eagle-import C7
 U 1 1 493D4CA5
 P 11600 2400
 F 0 "C7" H 11540 2400 70  0000 R TNN
@@ -803,7 +803,7 @@ F 3 "" H 11600 2400 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:10UF-0402T-6.3V-20% C8
+L RP2040-rescue:10UF-0402T-6.3V-20%-SparkFun_ProMicro-RP2040-eagle-import C8
 U 1 1 92C1A28E
 P 13000 2400
 F 0 "C8" H 12980 2400 70  0000 R TNN
@@ -814,7 +814,7 @@ F 3 "" H 13000 2400 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM S1
+L RP2040-rescue:MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM-SparkFun_ProMicro-RP2040-eagle-import S1
 U 1 1 B5093284
 P 12700 5500
 F 0 "S1" H 12700 5560 70  0000 C BNN
@@ -825,7 +825,7 @@ F 3 "" H 12700 5500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND015
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND015
 U 1 1 257B06B4
 P 12700 5900
 F 0 "#GND015" H 12700 5900 50  0001 C CNN
@@ -836,7 +836,7 @@ F 3 "" H 12700 5900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:V_USB #SUPPLY06
+L RP2040-rescue:V_USB-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY06
 U 1 1 C21E2EB3
 P 10600 2100
 F 0 "#SUPPLY06" H 10600 2100 50  0001 C CNN
@@ -847,7 +847,7 @@ F 3 "" H 10600 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:V_USB #SUPPLY08
+L RP2040-rescue:V_USB-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY08
 U 1 1 CC52D7E0
 P 17100 2800
 F 0 "#SUPPLY08" H 17100 2800 50  0001 C CNN
@@ -858,7 +858,7 @@ F 3 "" H 17100 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:QWIIC_CONNECTORJS-1MM J2
+L RP2040-rescue:QWIIC_CONNECTORJS-1MM-SparkFun_ProMicro-RP2040-eagle-import J2
 U 1 1 2FDF5ABF
 P 2400 10100
 F 0 "J2" H 2200 10420 70  0000 L BNN
@@ -869,7 +869,7 @@ F 3 "" H 2400 10100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:V_USB #SUPPLY09
+L RP2040-rescue:V_USB-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY09
 U 1 1 7F737C64
 P 16400 1500
 F 0 "#SUPPLY09" H 16400 1500 50  0001 C CNN
@@ -880,7 +880,7 @@ F 3 "" H 16400 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND016
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND016
 U 1 1 99D4D269
 P 2800 10400
 F 0 "#GND016" H 2800 10400 50  0001 C CNN
@@ -891,7 +891,7 @@ F 3 "" H 2800 10400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:2.2KOHM-0402T-1_16W-1% R5
+L RP2040-rescue:2.2KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R5
 U 1 1 D843F88A
 P 3400 9600
 F 0 "R5" H 3400 9660 70  0000 C BNN
@@ -902,7 +902,7 @@ F 3 "" H 3400 9600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:2.2KOHM-0402T-1_16W-1% R7
+L RP2040-rescue:2.2KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R7
 U 1 1 B3263452
 P 3100 9600
 F 0 "R7" H 3100 9660 70  0000 C BNN
@@ -913,7 +913,7 @@ F 3 "" H 3100 9600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY012
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY012
 U 1 1 A9A8C894
 P 13600 2100
 F 0 "#SUPPLY012" H 13600 2100 50  0001 C CNN
@@ -924,7 +924,7 @@ F 3 "" H 13600 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY03
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY03
 U 1 1 D5692080
 P 2800 9800
 F 0 "#SUPPLY03" H 2800 9800 50  0001 C CNN
@@ -935,7 +935,7 @@ F 3 "" H 2800 9800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY010
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY010
 U 1 1 AC3081B0
 P 3100 9300
 F 0 "#SUPPLY010" H 3100 9300 50  0001 C CNN
@@ -946,7 +946,7 @@ F 3 "" H 3100 9300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY013
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY013
 U 1 1 0BDF3AC2
 P 3400 9300
 F 0 "#SUPPLY013" H 3400 9300 50  0001 C CNN
@@ -957,7 +957,7 @@ F 3 "" H 3400 9300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:15PF-0402T-50V-5% C11
+L RP2040-rescue:15PF-0402T-50V-5%-SparkFun_ProMicro-RP2040-eagle-import C11
 U 1 1 0B8596A0
 P 2600 3400
 F 0 "C11" V 2610 3660 70  0000 R TNN
@@ -968,7 +968,7 @@ F 3 "" H 2600 3400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:15PF-0402T-50V-5% C13
+L RP2040-rescue:15PF-0402T-50V-5%-SparkFun_ProMicro-RP2040-eagle-import C13
 U 1 1 C81823EA
 P 2600 3000
 F 0 "C13" V 2610 3270 70  0000 R TNN
@@ -979,7 +979,7 @@ F 3 "" H 2600 3000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND035
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND035
 U 1 1 CF03C53C
 P 2300 3500
 F 0 "#GND035" H 2300 3500 50  0001 C CNN
@@ -990,7 +990,7 @@ F 3 "" H 2300 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:RP2040 U2
+L RP2040-rescue:RP2040-SparkFun_ProMicro-RP2040-eagle-import U2
 U 1 1 C2DEB937
 P 4200 3200
 F 0 "U2" H 3600 4710 59  0000 L BNN
@@ -1001,7 +1001,7 @@ F 3 "" H 4200 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND017
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND017
 U 1 1 0A5A0AC8
 P 3400 4900
 F 0 "#GND017" H 3400 4900 50  0001 C CNN
@@ -1012,7 +1012,7 @@ F 3 "" H 3400 4900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1KOHM-0402T-1_16W-1% R10
+L RP2040-rescue:1KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R10
 U 1 1 F8870A87
 P 3100 3400
 F 0 "R10" H 3100 3470 70  0000 C BNN
@@ -1023,7 +1023,7 @@ F 3 "" H 3100 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY017
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY017
 U 1 1 65B39815
 P 3400 1700
 F 0 "#SUPPLY017" H 3400 1700 50  0001 C CNN
@@ -1034,7 +1034,7 @@ F 3 "" H 3400 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C9
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C9
 U 1 1 F7AEDC46
 P 1500 5700
 F 0 "C9" H 1520 5800 70  0000 L BNN
@@ -1045,7 +1045,7 @@ F 3 "" H 1500 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND018
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND018
 U 1 1 E0081D19
 P 1500 6000
 F 0 "#GND018" H 1500 6000 50  0001 C CNN
@@ -1056,7 +1056,7 @@ F 3 "" H 1500 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY018
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY018
 U 1 1 F59CD171
 P 1500 5400
 F 0 "#SUPPLY018" H 1500 5400 50  0001 C CNN
@@ -1067,7 +1067,7 @@ F 3 "" H 1500 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C12
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C12
 U 1 1 82602F87
 P 1800 5700
 F 0 "C12" H 1820 5800 70  0000 L BNN
@@ -1078,7 +1078,7 @@ F 3 "" H 1800 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND019
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND019
 U 1 1 48B3EBD8
 P 1800 6000
 F 0 "#GND019" H 1800 6000 50  0001 C CNN
@@ -1089,7 +1089,7 @@ F 3 "" H 1800 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY019
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY019
 U 1 1 4114ABC6
 P 1800 5400
 F 0 "#SUPPLY019" H 1800 5400 50  0001 C CNN
@@ -1100,7 +1100,7 @@ F 3 "" H 1800 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C14
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C14
 U 1 1 AE6BF17C
 P 2100 5700
 F 0 "C14" H 2120 5800 70  0000 L BNN
@@ -1111,7 +1111,7 @@ F 3 "" H 2100 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND020
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND020
 U 1 1 2DF12463
 P 2100 6000
 F 0 "#GND020" H 2100 6000 50  0001 C CNN
@@ -1122,7 +1122,7 @@ F 3 "" H 2100 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY020
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY020
 U 1 1 11576E5E
 P 2100 5400
 F 0 "#SUPPLY020" H 2100 5400 50  0001 C CNN
@@ -1133,7 +1133,7 @@ F 3 "" H 2100 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C15
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C15
 U 1 1 4DAA913A
 P 2400 5700
 F 0 "C15" H 2420 5800 70  0000 L BNN
@@ -1144,7 +1144,7 @@ F 3 "" H 2400 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND021
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND021
 U 1 1 CF593DC2
 P 2400 6000
 F 0 "#GND021" H 2400 6000 50  0001 C CNN
@@ -1155,7 +1155,7 @@ F 3 "" H 2400 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY021
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY021
 U 1 1 BB85E6C7
 P 2400 5400
 F 0 "#SUPPLY021" H 2400 5400 50  0001 C CNN
@@ -1166,7 +1166,7 @@ F 3 "" H 2400 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C16
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C16
 U 1 1 32427EB1
 P 2700 5700
 F 0 "C16" H 2720 5800 70  0000 L BNN
@@ -1177,7 +1177,7 @@ F 3 "" H 2700 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND022
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND022
 U 1 1 FB1CD9CF
 P 2700 6000
 F 0 "#GND022" H 2700 6000 50  0001 C CNN
@@ -1188,7 +1188,7 @@ F 3 "" H 2700 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY022
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY022
 U 1 1 75100347
 P 2700 5400
 F 0 "#SUPPLY022" H 2700 5400 50  0001 C CNN
@@ -1199,7 +1199,7 @@ F 3 "" H 2700 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C17
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C17
 U 1 1 E877986F
 P 3000 5700
 F 0 "C17" H 3020 5800 70  0000 L BNN
@@ -1210,7 +1210,7 @@ F 3 "" H 3000 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND023
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND023
 U 1 1 C7080FD3
 P 3000 6000
 F 0 "#GND023" H 3000 6000 50  0001 C CNN
@@ -1221,7 +1221,7 @@ F 3 "" H 3000 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY023
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY023
 U 1 1 B94ED314
 P 3000 5400
 F 0 "#SUPPLY023" H 3000 5400 50  0001 C CNN
@@ -1232,7 +1232,7 @@ F 3 "" H 3000 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C18
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C18
 U 1 1 82F3EB32
 P 3900 5700
 F 0 "C18" H 3920 5800 70  0000 L BNN
@@ -1243,7 +1243,7 @@ F 3 "" H 3900 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND024
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND024
 U 1 1 664B2FAE
 P 3900 6000
 F 0 "#GND024" H 3900 6000 50  0001 C CNN
@@ -1254,7 +1254,7 @@ F 3 "" H 3900 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C19
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C19
 U 1 1 8DCD6BD8
 P 4200 5700
 F 0 "C19" H 4220 5800 70  0000 L BNN
@@ -1265,7 +1265,7 @@ F 3 "" H 4200 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND025
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND025
 U 1 1 2EE633C3
 P 4200 6000
 F 0 "#GND025" H 4200 6000 50  0001 C CNN
@@ -1276,7 +1276,7 @@ F 3 "" H 4200 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:27OHM R12
+L RP2040-rescue:27OHM-SparkFun_ProMicro-RP2040-eagle-import R12
 U 1 1 43B9E13C
 P 3200 2800
 F 0 "R12" H 3000 2810 70  0000 C BNN
@@ -1287,7 +1287,7 @@ F 3 "" H 3200 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:27OHM R13
+L RP2040-rescue:27OHM-SparkFun_ProMicro-RP2040-eagle-import R13
 U 1 1 93D79B50
 P 3200 2700
 F 0 "R13" H 3000 2710 70  0000 C BNN
@@ -1298,7 +1298,7 @@ F 3 "" H 3200 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1.1V #SUPPLY024
+L RP2040-rescue:1.1V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY024
 U 1 1 6EA68DB5
 P 3200 2000
 F 0 "#SUPPLY024" H 3200 2000 50  0001 C CNN
@@ -1309,7 +1309,7 @@ F 3 "" H 3200 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1.1V #SUPPLY025
+L RP2040-rescue:1.1V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY025
 U 1 1 45AA5876
 P 4200 5400
 F 0 "#SUPPLY025" H 4200 5400 50  0001 C CNN
@@ -1320,7 +1320,7 @@ F 3 "" H 4200 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1.1V #SUPPLY026
+L RP2040-rescue:1.1V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY026
 U 1 1 D211C7B6
 P 3900 5400
 F 0 "#SUPPLY026" H 3900 5400 50  0001 C CNN
@@ -1331,7 +1331,7 @@ F 3 "" H 3900 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:2.2UF-0402_TIGHT-10V-10%-X5R C20
+L RP2040-rescue:2.2UF-0402_TIGHT-10V-10%-X5R-SparkFun_ProMicro-RP2040-eagle-import C20
 U 1 1 5EF8E7F8
 P 4500 5700
 F 0 "C20" H 4560 5815 70  0000 L BNN
@@ -1342,7 +1342,7 @@ F 3 "" H 4500 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:2.2UF-0402_TIGHT-10V-10%-X5R C21
+L RP2040-rescue:2.2UF-0402_TIGHT-10V-10%-X5R-SparkFun_ProMicro-RP2040-eagle-import C21
 U 1 1 4A7323CC
 P 3300 5700
 F 0 "C21" H 3360 5815 70  0000 L BNN
@@ -1353,7 +1353,7 @@ F 3 "" H 3300 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY027
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY027
 U 1 1 25AF8A01
 P 3300 5400
 F 0 "#SUPPLY027" H 3300 5400 50  0001 C CNN
@@ -1364,7 +1364,7 @@ F 3 "" H 3300 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1.1V #SUPPLY028
+L RP2040-rescue:1.1V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY028
 U 1 1 C677056B
 P 4500 5400
 F 0 "#SUPPLY028" H 4500 5400 50  0001 C CNN
@@ -1375,7 +1375,7 @@ F 3 "" H 4500 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND026
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND026
 U 1 1 9E0685E6
 P 4500 6000
 F 0 "#GND026" H 4500 6000 50  0001 C CNN
@@ -1386,7 +1386,7 @@ F 3 "" H 4500 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND027
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND027
 U 1 1 419D9C11
 P 3300 6000
 F 0 "#GND027" H 3300 6000 50  0001 C CNN
@@ -1397,7 +1397,7 @@ F 3 "" H 3300 6000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:200OHM-0402T-1_16W-1% R14
+L RP2040-rescue:200OHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R14
 U 1 1 2429A51E
 P 2000 2000
 F 0 "R14" H 2000 2060 70  0000 C BNN
@@ -1408,7 +1408,7 @@ F 3 "" H 2000 2000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:2.2UF-0402_TIGHT-10V-10%-X5R C22
+L RP2040-rescue:2.2UF-0402_TIGHT-10V-10%-X5R-SparkFun_ProMicro-RP2040-eagle-import C22
 U 1 1 254B6C54
 P 2000 2600
 F 0 "C22" H 2060 2715 70  0000 L BNN
@@ -1419,7 +1419,7 @@ F 3 "" H 2000 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY029
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY029
 U 1 1 0331A01D
 P 2000 1700
 F 0 "#SUPPLY029" H 2000 1700 50  0001 C CNN
@@ -1430,7 +1430,7 @@ F 3 "" H 2000 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND028
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND028
 U 1 1 0345B4CC
 P 2000 2900
 F 0 "#GND028" H 2000 2900 50  0001 C CNN
@@ -1441,7 +1441,7 @@ F 3 "" H 2000 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:CRYSTAL-12MHZ Y1
+L RP2040-rescue:CRYSTAL-12MHZ-SparkFun_ProMicro-RP2040-eagle-import Y1
 U 1 1 6AE39798
 P 2800 3200
 F 0 "Y1" H 2800 3280 70  0000 C BNN
@@ -1452,7 +1452,7 @@ F 3 "" H 2800 3200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND029
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND029
 U 1 1 BFC01DE5
 P 7500 3000
 F 0 "#GND029" H 7500 3000 50  0001 C CNN
@@ -1463,7 +1463,7 @@ F 3 "" H 7500 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:0.1UF-0402T-6.3V-10%-X7R C29
+L RP2040-rescue:0.1UF-0402T-6.3V-10%-X7R-SparkFun_ProMicro-RP2040-eagle-import C29
 U 1 1 B4176B2A
 P 7100 2700
 F 0 "C29" H 7160 2815 70  0000 L BNN
@@ -1474,7 +1474,7 @@ F 3 "" H 7100 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND030
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND030
 U 1 1 E66C1352
 P 7100 3000
 F 0 "#GND030" H 7100 3000 50  0001 C CNN
@@ -1485,7 +1485,7 @@ F 3 "" H 7100 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:W25QXX128MBIT-6X5-SKINNY_CENTER U4
+L RP2040-rescue:W25QXX128MBIT-6X5-SKINNY_CENTER-SparkFun_ProMicro-RP2040-eagle-import U4
 U 1 1 FF393165
 P 8100 2500
 F 0 "U4" H 7700 2820 59  0000 L BNN
@@ -1496,7 +1496,7 @@ F 3 "" H 8100 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:1KOHM-0402T-1_16W-1% R15
+L RP2040-rescue:1KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R15
 U 1 1 738598F1
 P 8700 2000
 F 0 "R15" H 8700 2060 70  0000 C BNN
@@ -1507,7 +1507,7 @@ F 3 "" H 8700 2000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:2.2UF-0402_TIGHT-10V-10%-X5R C23
+L RP2040-rescue:2.2UF-0402_TIGHT-10V-10%-X5R-SparkFun_ProMicro-RP2040-eagle-import C23
 U 1 1 31BC7656
 P 6700 2700
 F 0 "C23" H 6760 2815 70  0000 L BNN
@@ -1518,7 +1518,7 @@ F 3 "" H 6700 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND031
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND031
 U 1 1 E3033BC1
 P 6700 3000
 F 0 "#GND031" H 6700 3000 50  0001 C CNN
@@ -1529,7 +1529,7 @@ F 3 "" H 6700 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:10KOHM-0402T-1_16W-1% R16
+L RP2040-rescue:10KOHM-0402T-1_16W-1%-SparkFun_ProMicro-RP2040-eagle-import R16
 U 1 1 D5A58622
 P 9000 2000
 F 0 "R16" H 9000 2060 70  0000 C BNN
@@ -1540,7 +1540,7 @@ F 3 "" H 9000 2000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY030
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY030
 U 1 1 5E7AC924
 P 9000 1700
 F 0 "#SUPPLY030" H 9000 1700 50  0001 C CNN
@@ -1551,7 +1551,7 @@ F 3 "" H 9000 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY031
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY031
 U 1 1 BA229691
 P 7500 2200
 F 0 "#SUPPLY031" H 7500 2200 50  0001 C CNN
@@ -1562,7 +1562,7 @@ F 3 "" H 7500 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY032
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY032
 U 1 1 89083F54
 P 7100 2400
 F 0 "#SUPPLY032" H 7100 2400 50  0001 C CNN
@@ -1573,7 +1573,7 @@ F 3 "" H 7100 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY033
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY033
 U 1 1 37B43BE0
 P 6700 2400
 F 0 "#SUPPLY033" H 6700 2400 50  0001 C CNN
@@ -1584,7 +1584,7 @@ F 3 "" H 6700 2400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM S2
+L RP2040-rescue:MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM-SparkFun_ProMicro-RP2040-eagle-import S2
 U 1 1 C667EF19
 P 11700 5500
 F 0 "S2" H 11700 5560 70  0000 C BNN
@@ -1595,7 +1595,7 @@ F 3 "" H 11700 5500 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND02
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND02
 U 1 1 13A376EC
 P 11700 5900
 F 0 "#GND02" H 11700 5900 50  0001 C CNN
@@ -1606,7 +1606,7 @@ F 3 "" H 11700 5900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:3.3V #SUPPLY01
+L RP2040-rescue:3.3V-SparkFun_ProMicro-RP2040-eagle-import #SUPPLY01
 U 1 1 E46721A6
 P 12700 4600
 F 0 "#SUPPLY01" H 12700 4600 50  0001 C CNN
@@ -1617,7 +1617,7 @@ F 3 "" H 12700 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:TEST-POINT3X5 TP1
+L RP2040-rescue:TEST-POINT3X5-SparkFun_ProMicro-RP2040-eagle-import TP1
 U 1 1 E5F42BB8
 P 5500 5600
 F 0 "TP1" H 5420 5610 70  0000 L BNN
@@ -1628,7 +1628,7 @@ F 3 "" H 5500 5600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:TEST-POINT3X5 TP2
+L RP2040-rescue:TEST-POINT3X5-SparkFun_ProMicro-RP2040-eagle-import TP2
 U 1 1 93FB0C53
 P 5500 5800
 F 0 "TP2" H 5420 5810 70  0000 L BNN
@@ -1639,7 +1639,7 @@ F 3 "" H 5500 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:WS2812-2020 U3
+L RP2040-rescue:WS2812-2020-SparkFun_ProMicro-RP2040-eagle-import U3
 U 1 1 9A04CEE8
 P 8200 5100
 F 0 "U3" H 8100 5430 70  0000 C BNN
@@ -1650,7 +1650,7 @@ F 3 "" H 8200 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SparkFun_ProMicro-RP2040-eagle-import:GND #GND04
+L RP2040-rescue:GND-SparkFun_ProMicro-RP2040-eagle-import #GND04
 U 1 1 D896219B
 P 8800 5400
 F 0 "#GND04" H 8800 5400 50  0001 C CNN
@@ -1658,17 +1658,6 @@ F 1 "GND" H 8800 5390 59  0000 C TNN
 F 2 "" H 8800 5400 50  0001 C CNN
 F 3 "" H 8800 5400 50  0001 C CNN
 	1    8800 5400
-	1    0    0    -1  
-$EndComp
-$Comp
-L SparkFun_ProMicro-RP2040-eagle-import:TEST-POINT3X5 TP3
-U 1 1 AF7E6EF2
-P 8900 5200
-F 0 "TP3" H 8820 5210 70  0000 L BNN
-F 1 "TEST-POINT3X5" H 8800 5100 70  0000 L BNN
-F 2 "SparkFun_ProMicro-RP2040:PAD.03X.05" H 8900 5200 50  0001 C CNN
-F 3 "" H 8900 5200 50  0001 C CNN
-	1    8900 5200
 	1    0    0    -1  
 $EndComp
 Text Notes 12400 3000 0    59   ~ 0

@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name SparkFun_ProMicro-RP2040)(type KiCad)(uri "$(KIPRJMOD)/SparkFun_ProMicro-RP2040.pretty")(options "")(descr ""))
-)
